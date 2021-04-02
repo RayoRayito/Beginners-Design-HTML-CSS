@@ -132,7 +132,7 @@ div.muffinSide.col2.col {
 
 }
 
-.row {                     /*Investigar que es y que hace*/
+.row {                    
     --bs-gutter-x: 0;
     --bs-gutter-y: 0;
 }
